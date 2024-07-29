@@ -124,6 +124,15 @@ The project made significant strides in addressing the research questions, parti
 
 These steps would help in fully addressing the research questions and providing a more comprehensive understanding of the data.
 
+## Troubleshooting
+If you encounter any issues or have questions, please check the [FAQ](FAQ.md) or open an [issue](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/issues) on GitHub.
+
+## Members
+    - Ingavi Kilavuka
+    - Calvin Omwega
+    - Alvin Kimathi
+    - Ronny Kabiru
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
