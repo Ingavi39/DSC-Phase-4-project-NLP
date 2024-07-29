@@ -55,6 +55,21 @@ This project performs sentiment analysis on tweets. The steps include data clean
 
 2. Open the notebook `notebooks/Index.ipynb` and run the cells step-by-step.
 
+## Objective
+
+To analyze the sentiment of tweets directed at various brands and products to understand public perception. This will involve determining whether the sentiment expressed in tweets is positive, negative, or neutral and identifying the specific brands and products mentioned.
+
+### Problem Definition
+In the age of social media, understanding public sentiment towards brands and products is crucial for businesses. This project aims to:
+1. **Identify the Sentiment**: Determine whether the sentiment expressed in each tweet is positive, negative, or neutral.
+2. **Target Identification**: Identify the specific brand or product that the sentiment is directed towards.
+3. **Trends and Insights**: Derive insights and trends regarding public perception of various brands and products.
+
+Research Questions:
+1. **Sentiment Classification**: What is the distribution of positive, negative, and neutral sentiments across the dataset?
+2. **Brand/Product Association**: Which brands and products are most frequently mentioned, and what is the associated sentiment for each?
+3. **Temporal Trends**: Are there any notable trends in sentiment over time for specific brands or products?
+
 ## Data Cleaning and Preprocessing
 - Remove URLs, special characters, and stopwords from the tweet text.
 - Tokenize the cleaned text for further analysis.
