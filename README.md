@@ -11,6 +11,7 @@ This project performs sentiment analysis on tweets. The steps include data clean
 - `README.md`: [Project documentation.](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/blob/main/README.md)
 - `.gitignore`: [Git ignore file.](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/blob/main/.gitignore)
 
+
 ## Requirements
 - Python 3
 - Jupyter Notebook
