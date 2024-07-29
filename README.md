@@ -10,7 +10,7 @@ This project performs sentiment analysis on tweets. The steps include data clean
 - `images/`: [Directory containing images.](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/tree/main/images)
 - `README.md`: [Project documentation.](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/blob/main/README.md)
 - `.gitignore`: [Git ignore file.](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/blob/main/.gitignore)
-
+- `presentation/`: [Directory containing presentation materials.](https://github.com/Ingavi39/DSC-Phase-4-project-NLP/blob/main/Presentation.pdf)
 
 ## Requirements
 - Python 3
